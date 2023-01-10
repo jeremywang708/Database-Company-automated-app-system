@@ -1,5 +1,4 @@
 -- File 3
--- Yun Wang, Shoulong Wu, Nico Loreto, Aaron Thompson
 -- File tests use of view commands
 
 -- Query 1: A dynamic view for query 4 in File 3
