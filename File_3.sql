@@ -1,5 +1,4 @@
 -- File 3
--- Yun Wang, Shoulong Wu, Nico Loreto, Aaron Thompson
 -- File tests use of query commands to find certain data sets
 
 SELECT 
