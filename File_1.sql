@@ -1,5 +1,4 @@
 -- File 1
--- Yun Wang, Shoulong Wu, Nico Loreto, Aaron Thompson
 -- Creating database tables for a new DDL file, Testing understanding of DDL commands
 
 CREATE TABLE customer (
