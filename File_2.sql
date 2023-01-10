@@ -1,5 +1,4 @@
 -- File #2
--- Yun Wang, Shoulong Wu, Nico Loreto, Aaron Thompson
 -- Inserting datasets into newly created tables of assignment 2 schema, tests use of insertion commands
 
 -- Inserting data into customer table
